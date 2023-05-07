@@ -1,0 +1,27 @@
+.slider-wrapper{
+    margin: 32px 0;
+}
+.main-content{
+    min-height: 100vh;
+}
+.categories{
+    .categories-item{
+        margin-bottom: 4.8rem!important;
+
+        .title-md{
+            margin-bottom: 2.8rem;
+        }
+    }
+}
+
+.dropdown-menu {
+    display: flex;  
+}
+
+.dropdown-item {
+    margin-left: 12px;
+    border: 1px solid black;
+    padding: 6px;
+    border-radius: 10px;
+    cursor: pointer;
+}
